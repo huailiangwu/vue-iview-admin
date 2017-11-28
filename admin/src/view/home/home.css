@@ -1,0 +1,16 @@
+.operate-btn-group{
+  margin: 10px 0;
+}
+.data-wrap{
+  width: 100%;
+  margin: 0 2%;
+  
+}
+.paging-wrap{
+  width: 100%;
+  margin: 10px 0;
+  text-align: right;
+}
+.ivu-row{
+  margin: 0 !important;
+}

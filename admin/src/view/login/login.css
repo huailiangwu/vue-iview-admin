@@ -1,0 +1,68 @@
+.login_wrap {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  background: #3c404b;
+}
+.login {
+  width: 400px;
+  margin: 100px auto;
+  height: 500px;
+  padding: 1%;
+  box-shadow: 1px 1px 1px #eee;
+  background: #fff;
+  border-radius: 10px;
+}
+.login_logo h1{
+  padding: 10px 0;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.unifi_login p{
+  padding: 10px 0;
+  width: 80px;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  border-bottom:5px solid seagreen
+
+}
+.user_name,.pswd,.auth_code,.submit{
+  width: 75%;
+  margin: 40px auto;
+  height: 35px;
+  clear: both;
+}
+.user_icon,.pswd_icon{
+  width: 20%;
+  float: left;
+  text-align: center;;
+  height: 35px;
+  line-height: 45px;
+
+}
+.user_input,.pswd_input{
+ width: 80%;
+ height: 35px;
+ line-height: 35px;
+ float: right;
+}
+.auth_code_input{
+  width: 40%;
+  margin-left: 20%;
+  float: left;
+}
+.auth_code_img{
+  width: 30%;
+  float:right;
+}
+.sub_btn{
+  width: 100px;
+  float: left;
+  margin-left: 20%;
+}
+.reset_btn{
+  width: 100px;
+  float:right;
+}
